@@ -1,0 +1,14 @@
+# 凭据 / 运行时（绝不出设备）
+runtime/
+*.enc
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时产物
+tmp/
+output/
+*.log
