@@ -39,10 +39,14 @@
 
 ## 开源与发布
 
-本技能包**完全开源**：
+本技能包**完全开源**；**最新版以下面两处为准**：
 
-- **源码仓库**：https://github.com/TOMUIV/research-ops-skill
-- **技能市场（ClawHub）**：`research-ops` — `clawhub install research-ops`
+| 渠道 | 地址 | 查看 / 获取 |
+|---|---|---|
+| **GitHub**（源码） | **https://github.com/TOMUIV/research-ops-skill** | 看完整代码、Fork、提 Issue |
+| **ClawHub**（技能市场） | slug **`research-ops`** | `clawhub install research-ops` |
+
+> 想确认「最新版是多少 / 改了什么」——去上面任一渠道看即可；本仓库与 ClawHub 同源同版本。
 
 ## 许可
 
