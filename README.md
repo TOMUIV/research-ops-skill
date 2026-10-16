@@ -46,4 +46,4 @@
 
 ## 许可
 
-MIT（见 `LICENSE`）。
+MIT-0（No Attribution，见 `LICENSE`）。
